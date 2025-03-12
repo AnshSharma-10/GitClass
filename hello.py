@@ -12,3 +12,4 @@ print(a-b)
 # main = deployed 
 # all else = preview branch
 
+print(a*b)
